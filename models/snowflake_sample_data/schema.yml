@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: HEART_DB
+    database: PC_DBT_DB  
+    schema: DBT_SCHEMA  
+    tables:
+      - name: heart
